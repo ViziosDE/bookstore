@@ -1,0 +1,7 @@
+organization=fhstp
+projectKey=scav
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18114
+dashboardUrl=https://sonarcloud.io/dashboard?id=scav
+ceTaskId=AXgh0yR2BwsLdWbHOz7Y
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgh0yR2BwsLdWbHOz7Y
